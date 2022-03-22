@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/Chevron_0518.unity
+    guid: e5723cf666c2e6d48a9f83b94d0ba265
+  - enabled: 1
+    path: Assets/Scenes/VortexScene.unity
+    guid: ce6a757f9763c5a419f325a2a9259af2
+  m_configObjects:
+    Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: 04cb901dedf6ed14384a7bb9824fab37, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 7e5eaeaf188fd8b4c8a2fc1593ca7797, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 015a46706190ca54f9b0eb289ad6db00, type: 2}
